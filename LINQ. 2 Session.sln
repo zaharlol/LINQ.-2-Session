@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ. 2 Session", "LINQ. 2 Session\LINQ. 2 Session.csproj", "{DC314B7D-A988-490C-9F14-31701BF04F1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Join", "Join\Join.csproj", "{C1F67AD8-5571-41EC-A1CF-F864A6890F54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Join", "Join\Join.csproj", "{C1F67AD8-5571-41EC-A1CF-F864A6890F54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SR", "SR\SR.csproj", "{D878081C-FABC-4105-B550-DBFA658975E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C1F67AD8-5571-41EC-A1CF-F864A6890F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1F67AD8-5571-41EC-A1CF-F864A6890F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1F67AD8-5571-41EC-A1CF-F864A6890F54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D878081C-FABC-4105-B550-DBFA658975E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D878081C-FABC-4105-B550-DBFA658975E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D878081C-FABC-4105-B550-DBFA658975E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D878081C-FABC-4105-B550-DBFA658975E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
